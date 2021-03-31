@@ -17,6 +17,7 @@ I’ve always been fascinated by technology and love programming. I’m constant
 <a target="_blank" href="https://rhishhatt.wordpress.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Wordpress&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/rhishabh-hattarki/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/__rhish__/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://leetcode.com/rhish9h/"><img src="https://img.shields.io/badge/-Leetcode-ffdb58?style=for-the-badge&logo=Leetcode&logoColor=white"></img></a>
 
 <hr/>
 
