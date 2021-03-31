@@ -4,6 +4,8 @@
 
 <hr/>
 
+#### 👦 About me
+
 I’ve always been fascinated by technology and love programming. I’m constantly learning new things and striving for continuous improvement.
 
 - 🌱 I’m currently learning Java & Spring Framework.
