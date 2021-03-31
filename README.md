@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Rhishabh 👋
+
+<p><em>Software Enginner at <a href="https://www.persistent.com/">Persistent Systems</a></em></p>
+
+I’ve always been fascinated by technology and love programming. I’m constantly learning new things and striving for continuous improvement.
+
+- 🌱 I’m currently learning Java & Spring Framework.
 
 <!--
 **rhish9h/rhish9h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
