@@ -8,7 +8,7 @@
 
 I’ve always been fascinated by technology and love programming. I’m constantly learning new things and striving for continuous improvement.
 
-- 🌱 I’m currently learning Mulesoft, Java & Spring Framework.
+- 🌱 I’m currently learning Apache Camel, Mulesoft, Java & Spring Framework.
 
 <hr/>
 
