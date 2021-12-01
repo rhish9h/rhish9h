@@ -33,6 +33,7 @@ I’ve always been fascinated by technology and love programming. I’m constant
 
 ![Profile views](https://gpvc.arturio.dev/rhish9h)  [![Repos Badge](https://badges.pufler.dev/repos/rhish9h)](https://badges.pufler.dev)
 <img src="https://img.shields.io/github/followers/rhish9h?label=Follow" style=" float:left, margin-right:10px" /> 
+<a target="_blank" href="https://www.youtube.com/channel/UCt_pUsxq5I2tj2tgfOEr7tg"><img src="https://img.shields.io/youtube/channel/views/UCt_pUsxq5I2tj2tgfOEr7tg?label=Youtube%20Views&style=plastic" /></a>
 <!--
 **rhish9h/rhish9h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
