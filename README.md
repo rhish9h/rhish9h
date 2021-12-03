@@ -27,7 +27,7 @@ I’ve always been fascinated by technology and love programming. I’m constant
 
 <img src="https://github-readme-stats.vercel.app/api?username=rhish9h&show_icons=true&theme=gotham" alt="rhish9h" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhish9h&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </br>
 
