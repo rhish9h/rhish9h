@@ -1,6 +1,6 @@
 ### Hi there, I am Rhishabh 👋
 
-<p><em>Software Engineer at <a href="https://www.persistent.com/">Persistent Systems</a></em></p>
+<p><em>Software Engineering Grad Student at <a href="https://www.asu.edu/">Arizona State University</a></em></p>
 
 <hr/>
 
@@ -8,7 +8,10 @@
 
 I’ve always been fascinated by technology and love programming. I’m constantly learning new things and striving for continuous improvement.
 
-- 🌱 I’m currently working with Java, Spring Boot and PostgreSQL.
+- 🌱 My subjects for the Fall 2022 semester:
+  - SER 501 Advanced Data Structures and Algorithms
+  - SER 515 Foundations of Software Engineering
+  - CSE 564 Software Design
 
 <hr/>
 
