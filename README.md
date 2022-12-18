@@ -8,6 +8,10 @@
 
 I’ve always been fascinated by technology and love programming. I’m constantly learning new things and striving for continuous improvement.
 
+- 🌱 My subjects for the Spring 2023 semester:
+  - SER 502 Emerging Languages and Programming Paradigms
+  - SER 516 Software Agility
+  - SER 540 Internet-Enabled Embedded Devices
 - 🌱 My subjects for the Fall 2022 semester:
   - SER 501 Advanced Data Structures and Algorithms
   - SER 515 Foundations of Software Engineering
