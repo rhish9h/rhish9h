@@ -34,6 +34,10 @@ I’ve always been fascinated by technology and love programming. I’m constant
 
 <hr/>
 
+#### <> My Leetcode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/rhish9h?ext=heatmap&theme=dark)
+
 #### 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=rhish9h&show_icons=true&theme=gotham" alt="rhish9h" />
