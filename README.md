@@ -46,7 +46,6 @@ I’ve always been fascinated by technology and love programming. I’m constant
 
 </br>
 
-![Profile views](https://gpvc.arturio.dev/rhish9h)
 <img src="https://img.shields.io/github/followers/rhish9h?label=Follow" style=" float:left, margin-right:10px" /> 
 <a target="_blank" href="https://www.youtube.com/channel/UCt_pUsxq5I2tj2tgfOEr7tg"><img src="https://img.shields.io/youtube/channel/views/UCt_pUsxq5I2tj2tgfOEr7tg?label=Youtube%20Views&style=plastic" /></a>
 <!--
