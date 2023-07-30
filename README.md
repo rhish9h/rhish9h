@@ -8,6 +8,10 @@
 
 I’ve always been fascinated by technology and love programming. I’m constantly learning new things and striving for continuous improvement.
 
+- 🌱 My subjects for the Fall 2023 semester:
+  - CSE 572 Data Mining
+  - SER 421 Web-Based Applications
+  - SER 594 Topic: Data Science for Software Engineers
 - 🌱 My subjects for the Spring 2023 semester:
   - SER 502 Emerging Languages and Programming Paradigms
   - SER 516 Software Agility
