@@ -9,6 +9,8 @@
 I’ve always been fascinated by technology and love programming. I’m constantly learning new things and striving for continuous improvement.
 
 - 🌱 My subjects for the Fall 2023 semester:
+  - SER 517 Software Factory Capstone
+- 🌱 My subjects for the Fall 2023 semester:
   - CSE 572 Data Mining
   - SER 421 Web-Based Applications
   - SER 594 Topic: Data Science for Software Engineers
