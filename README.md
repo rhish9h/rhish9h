@@ -1,6 +1,6 @@
 ### Hi there, I am Rhishabh 👋
 
-<p>EmpowerID IAM Engineer (Software Engineer) at EmpowerID</p>
+<p>Software Engineer at EmpowerID</p>
 
 <hr/>
 
